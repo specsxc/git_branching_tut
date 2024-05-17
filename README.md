@@ -1,1 +1,1 @@
-tutorial commands for learn git branching
+commands for learn git branching tutorial
